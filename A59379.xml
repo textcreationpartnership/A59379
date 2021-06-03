@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Severall informations taken by the deputy lieutenants of Northhampton, the 9th of this present August concerning the cruell murthers and abuses that the troopers use upon such of His Majesties subjects as declare themselves for the King and Parliament ...</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59379</idno><idno type="EEBO-CITATION">14153685</idno>
+  <idno type="VID">102129</idno>
+  <idno type="EEBO-PROQUEST">2240886831</idno>
+  
+            <idno type="STC">Wing S2768</idno>
+            <idno type="STC">ESTC R34241</idno>
+            <idno type="OCLC">14153685</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A59379)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 102129)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1069:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Severall informations taken by the deputy lieutenants of Northhampton, the 9th of this present August concerning the cruell murthers and abuses that the troopers use upon such of His Majesties subjects as declare themselves for the King and Parliament ...</title>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by L.N. and I.F. for E. Husbands [and] J. Frank,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: pages stained and with print show-through.</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:102129:1"/>
+            <pb facs="tcp:102129:1"/>
+            <p>Severall Informations Taken by the DEPVTY LIEVTENANTS OF Northampton, The 9<seg rend="sup">th</seg> of this present August; CONCERNING The cruell Murthers, and Abuses that the Troopers use upon such of His Majesties Subjects, as declare themselves for the <hi>KING</hi> and <hi>PARLIAMENT.</hi>
+            </p>
+            <p>And likewise, The violence they use upon all men that will not deliver them their Arms.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="order_to_print">
+                        <p>Read in the House of Commons; and Ordered to be forth<g ref="char:EOLhyphen"/>with Printed: </p>
+                        <closer>
+                           <signed>H. Elsynge, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>L. N.</hi> and <hi>I. F.</hi> for <hi>E. Husbands J. Franck,</hi> and are to be <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>old at their shops in the Middle-Temple, and the Kings-he<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d in Fleetstreet. <hi>August</hi> 11. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="testimony">
+            <pb facs="tcp:102129:2"/>
+            <pb n="3" facs="tcp:102129:2"/>
+            <head>THE INFORMATION OF George Watson of Killesby, Husbandman, taken at <hi>Northampton</hi> the 9 day of August, 1642. before <hi>Laurence Ball,</hi> Maior of the said Town, Sir <hi>Richard Samuell</hi> Knight, and <hi>Clifton Catesby</hi> Esquire, Deputy Lieutenants for the said County.</head>
+            <p>
+               <seg rend="decorInit">T</seg>His Informant saith, that on Tues<g ref="char:EOLhyphen"/>day morning the ninth of this in<g ref="char:EOLhyphen"/>stant <hi>August</hi> before Sun-rise, about fourscore Troops armed with Car<g ref="char:EOLhyphen"/>bines and Pistolls came to <hi>Killesbie,</hi> with a Truth <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t before them, and beset the house of <hi>John H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>llo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> the elder, but cannot tell what they said to them in the house, being far distant from them; At which time and place this Informant upon hearing the Trumpet, came and found one <hi>Thomas VVinks</hi> there shott dead in the breast: And this Informant enquiring of one <hi>Oba<g ref="char:EOLhyphen"/>diah Marriott</hi> who was present, and how it came to passe, he said that he heard the said <hi>VVinks</hi> say he was for the King and Parliament, and thereupon he was shot.</p>
+            <pb n="4" facs="tcp:102129:3"/>
+            <p>And the said <hi>Marriot</hi> saying they had slain a faithfull Subject of the Kings, one of the said Troo<g ref="char:EOLhyphen"/>pers strook him three or four times with a sword, and thereupon he fled: And this Informant saith that he was also shot at, and also <hi>Moses Howlat</hi> who said only he was for the King, and <hi>Thomas Clark</hi> and <hi>Zephaniah Crick,</hi> and divers others were shot at and wounded thereby, and <hi>John VVhite</hi> was there dange<g ref="char:EOLhyphen"/>rously wounded by one of the Troopers with a pitch-fork which was taken from one of the neigh<g ref="char:EOLhyphen"/>bours, and one <hi>Henry Barfoot</hi> was also kill'd, but this Informant was not present when he was slain.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Laurence Ball,</hi> Major.</item>
+                     <item>
+                        <hi>Richard Samuell.</hi>
+                     </item>
+                     <item>
+                        <hi>Clifton Catesby.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="testimony">
+            <pb n="5" facs="tcp:102129:3"/>
+            <head>THE INFORMATION OF Thomas Hall of Killesby, Hus<g ref="char:EOLhyphen"/>bandman, which taken as aforesaid:</head>
+            <p>WHo saith that he did see <hi>Thomas VVinkles</hi> and <hi>Henry Barfoot</hi> lye dead in <hi>Killesby,</hi> who was slain by the said Troopers, and only heard the said Troo<g ref="char:EOLhyphen"/>pers say, Rank, Rank, but durst not depart o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t of his house, but he hid two peeces and a musket which he had there.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Laurence Ball,</hi> Major.</item>
+                     <item>
+                        <hi>Richard Samuell.</hi>
+                     </item>
+                     <item>
+                        <hi>Clifton Catesby.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="testimony">
+            <pb n="6" facs="tcp:102129:4"/>
+            <head>THE INFORMATION OF Peter Meads of Killesby, Hus<g ref="char:EOLhyphen"/>bandman, taken as aforesaid:</head>
+            <p>WHo saith, That he did see about 80 Troopers come into <hi>Killesby,</hi> before the Sun rise this present day, and one of the said Troopers held a hors<g ref="char:EOLhyphen"/>mans Pistoll against this Informant, and one of his fellows said to him, Shoot it off without further words; whereupon this Informant desired them to hold their hands, and fled from them; and going down the Town, three Troopers more met this In<g ref="char:EOLhyphen"/>formant, and charged him to stand, and drew their swords, and charged him to tell them where any Arms were; and this Informant telling them he could not tell: Two or three of them struck at this Informant with their swords, and immediately two or three more came to them, and said, What do you do with that Rogue; Come, come▪ we will fire the Town▪ And this Informant le<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ped over a hedge▪ and escaped from them.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Laurence Ball,</hi> Major.</item>
+                     <item>
+                        <hi>Richard Samuell.</hi>
+                     </item>
+                     <item>
+                        <hi>Clifton Catesby.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="testimony">
+            <pb n="7" facs="tcp:102129:4"/>
+            <head>THE INFORMATION OF John Hollis junior of Killesby, Husbandman, taken at <hi>Northampton</hi> the ninth day of August, 1642. before <hi>Lawrence Ball</hi> Major of the said Town, Sir <hi>Richard Samuel</hi> Knight, and <hi>Clifton Catesby</hi> Esquire, Deputy Lieute<g ref="char:EOLhyphen"/>nants of the said County.</head>
+            <p>THis Informant saith, that he being present at the information of the said <hi>George VVatson,</hi> know<g ref="char:EOLhyphen"/>eth the same in all particulars to be true, and further saith, that he was told by Master <hi>Bowkly</hi> and <hi>John Welch,</hi> that they were taken by the said Troopers, and four swords and Bandiliers and a Rest was taken from them by the said Troopers: But this Infor<g ref="char:EOLhyphen"/>mant and four or five others with him conceiving themselves to be weake for them, did hide their guns and fled for their safety, and afterwards the Troo<g ref="char:EOLhyphen"/>pers enquired where the Rogues were that had the the Arms: And thereupon this Informant and the rest with-drue themselves, and durst not further ap<g ref="char:EOLhyphen"/>pear against them: And this Informant saith, that <hi>VVilliam Bowkly</hi> told him, that the said Troopers cock'd Pistolls at his breast, and drew their swords and swore they would kill him, if he did not tell them where the Arms of the Town were.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Laurence Ball,</hi> Major.</item>
+                     <item>
+                        <hi>Richard Samuell.</hi>
+                     </item>
+                     <item>
+                        <hi>Clifton Catesby.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
